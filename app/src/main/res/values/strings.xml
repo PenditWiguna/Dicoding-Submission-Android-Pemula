@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">MyTugas</string>
+    <string name="destinasi_name">Nama Destinasi Pulau Bali</string>
+    <string name="description">Deskripsi</string>
+    <string name="About" />
+    <string name="list">\About</string>
+    <string name="grid" />
+    <string name="tentang">Tentang</string>
+
+
+    <string-array name="data_name">
+        <item>GWK (Garuda Wisnu Kencana)</item>
+        <item>Tanah Lot</item>
+        <item>Bedugul</item>
+        <item>Besakih</item>
+        <item>Kintamani</item>
+        <item>Melasti</item>
+        <item>Pandawa</item>
+        <item>Penglipuran</item>
+        <item>Tamblingan</item>
+        <item>Uluwatu</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+
+        <item>Merupakan patung tertinggi yang ada di daerah Bali.</item>
+        <item>Tempat persembahyangan umat Hindu Bali, sekaligus wisata.</item>
+        <item>Merupakan tempat rekreasi.</item>
+        <item>Tempat rekreasi yang terletak di Kabupaten Bangli.</item>
+        <item>Merupakan pantai populer di daerah Bali Selatan.</item>
+        <item>Merupakan pantai ikonik di daerah Bali Selatan.</item>
+        <item>Tempat rekreasi di daerah Kabupaten Bangli dengan konsep desa.</item>
+        <item>Tempat camping di daerah Buleleng.</item>
+        <item>Pura sekaligus tempat wisata di daerah Bali Selatan.</item>
+        <item>Merupakan tempat persembahyangan.</item>
+
+    </string-array>
+
+    <string-array name="detail_description">
+      <item>
+            GWK (Garuda Wisnu Kencana) adalah taman budaya yang megah dengan patung Dewa Wisnu dan Garuda setinggi 122 meter.
+            Menjadi salah satu ikon pariwisata Bali, GWK menawarkan pemandangan spektakuler dan menjadi tempat berbagai kegiatan seni dan budaya.
+        </item>
+        <item>
+            Tanah Lot adalah pura laut yang menjulang di atas batu karang di pesisir barat Bali.
+            Selain sebagai tempat persembahyangan Hindu, Tanah Lot terkenal dengan keindahan matahari terbenamnya yang memukau,
+            menciptakan suasana magis di sekitar pura dan pantai sekitarnya.
+        </item>
+        <item>
+            Bedugul adalah kawasan pegunungan yang menawarkan pemandangan indah danau dan taman bunga yang mempesona.
+            Pura Ulun Danu Bratan, yang terletak di tepi danau, adalah daya tarik utama yang memancarkan ketenangan dan keindahan.
+        </item>
+        <item>
+            Besakih adalah Pura Agung Besakih, kompleks pura terbesar di Bali. Terletak di lereng Gunung Agung, pura ini adalah tempat
+            utama ibadah umat Hindu Bali dan menawarkan pemandangan alam yang menakjubkan sepanjang perjalanan ke puncaknya.
+        </item>
+        <item>
+            Kintamani adalah kawasan dengan pemandangan danau dan gunung, terutama Gunung Batur yang megah.
+            Selain itu, Kintamani dikenal dengan kebun jeruknya dan suasana pegunungannya yang sejuk dan menyegarkan.
+        </item>
+        <item>
+            Melasti adalah pantai yang indah dengan ritual Melasti, di mana umat Hindu membersihkan diri dan membawa persembahan ke laut.
+            Pantai ini menawarkan keindahan alam yang masih alami dan menjadi tempat spiritual dan pemandian rohaniah.
+        </item>
+        <item>
+            Pandawa adalah pantai dengan batu karang dan patung pahlawan Pandawa Lima yang megah.
+            Menawarkan suasana pantai yang tenang, pantai ini menjadi destinasi yang sempurna untuk bersantai dan menikmati keindahan laut.
+        </item>
+        <item>
+            Penglipuran adalah desa adat Bali yang terkenal dengan arsitektur tradisional dan kebersihan yang sangat terjaga.
+            Menjelajahi desa ini memberikan pengalaman mendalam tentang budaya Bali yang autentik.
+        </item>
+        <item>
+            Tamblingan adalah danau yang indah di pegunungan Bali.
+            Dikelilingi oleh hutan yang hijau dan pemandangan indah, danau ini menyajikan ketenangan dan keindahan alam yang memukau.
+        </item>
+        <item>
+            Uluwatu adalah pura laut yang terletak di tebing tinggi, menawarkan pertunjukan kecak dan pemandangan laut yang spektakuler.
+            Selain itu, pura ini juga dikenal dengan panorama matahari terbenamnya yang memukau.
+        </item>
+    </string-array>
+    <string-array name="data_photo">
+
+        <item>@drawable/gwk</item>
+        <item>@drawable/tanahlot</item>
+        <item>@drawable/bedugul</item>
+        <item>@drawable/besakih</item>
+        <item>@drawable/kintamani</item>
+        <item>@drawable/melasti</item>
+        <item>@drawable/pandawa</item>
+        <item>@drawable/penglipuran</item>
+        <item>@drawable/tamblingan</item>
+        <item>@drawable/uluwatu</item>
+
+    </string-array>
+
+    <string name="about_name">I Pande Komang Gede Pendit Wiguna</string>
+    <string name="about_email">a113d4ky4278@bangkit.academy</string>
+</resources>
